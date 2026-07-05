@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ibraka41.aternos.me:42885",
+    "ip": "Ibraka41.aternos.me",
     "port": 42885,
     "version": "",
     "try-creative": false
